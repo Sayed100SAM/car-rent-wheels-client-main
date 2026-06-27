@@ -21,7 +21,28 @@ This section presents the main benefits of the platform, including easy booking,
 <br>
 <br>
 <br>
-
+<img width="1591" height="696" alt="Screenshot (408)" src="https://github.com/user-attachments/assets/04fbd6c4-967e-4f03-a5d1-f50c589d10a8" />
+<img width="1605" height="823" alt="Screenshot (409)" src="https://github.com/user-attachments/assets/b12b64c4-e463-48dd-a889-df30d07fddbc" />
+<br>
+<br>
+<br>
+This section highlights the platform’s top-rated vehicles, customer testimonials, and FAQ support. It helps users explore trusted rental options, understand customer experiences, and quickly find answers to common questions for a smoother overall experience.
+<br>
+<br>
+<br>
+<img width="1562" height="740" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/240e5210-96ee-497c-a621-7010839f014a" />
+<img width="1633" height="806" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/9ca82ce2-56f7-4bfd-a499-5083079fe513" />
+<br>
+<br>
+<br>
+This project includes secure Register and Login pages with Email/Password and Google Authentication using Firebase. After logging in, users can access protected features like Add Car, My Listings, My Bookings, and Browse Cars.
+<br>
+<br>
+<br>
+<img width="1614" height="802" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/92671934-4697-402a-a616-a8b12bf44143" />
+<br>
+<br>
+<br>
 
 **Key Features :**
 
