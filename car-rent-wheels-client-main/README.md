@@ -3,9 +3,9 @@
 
 RentWheels connect users with local car owners or rental providers. Users can browse available cars, view details, and book rentals for specific dates. Car providers can list vehicles, manage bookings, and update availability.
 
-**Client-side GitHub Repository :** 
+**GitHub Repository :** https://github.com/Sayed100SAM/car-rent-wheels-client-main
 
-**Live Website Link Client-side :** 
+**Live Website Link :** https://car-rent-wheels-client.vercel.app/
 
 **Key Features :**
 
